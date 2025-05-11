@@ -1,0 +1,5 @@
+openai
+cuckoo
+radare2
+ghidra
+streamlit
